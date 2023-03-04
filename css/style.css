@@ -70,7 +70,7 @@ body {
 /*-------------------main---<section class="main_page">-----------*/
 
 .main_page {
-    background-image: url("/img/background.jpg");
+    background-image: url("../img/background.jpg");
     background-size: cover;
 }
 .main_page_content {
